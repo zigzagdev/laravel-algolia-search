@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/fvXXhcn/algolia.png" width="100" height="100"></p>
+<p align="center"><img src="https://i.ibb.co/fvXXhcn/algolia.png" width="150" height="150"></p>
 
 ## About Laravel And Algolia
 
@@ -12,7 +12,7 @@ Algolia package provide a live search APIs function using this you can search fu
 
 Then we have required create one algolia account and get ALGOLIA_APP_ID and ALGOLIA_SECRET. you can create algolia account on click from here Algolia.com
 
-After get both of keys then opwn your .env file and set into it like that.
+After get both of keys then open your .env file and set into it like that.
 ```
 ALGOLIA_APP_ID=algolia_app_id
 ALGOLIA_SECRET=algolia_app_secret	
